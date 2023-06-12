@@ -1,0 +1,26 @@
+{
+    "event": [
+      {
+        "id": 1,
+        "nama_event": "Konser Musik",
+        "deskripsi": "Konser musik live dengan artis terkenal",
+        "harga_tiket": 150000,
+        "stok_tiket": 100
+      },
+      {
+        "id": 2,
+        "nama_event": "Pertunjukan Teater",
+        "deskripsi": "Pertunjukan teater komedi dengan pemain ternama",
+        "harga_tiket": 100000,
+        "stok_tiket": 50
+      },
+      {
+        "id": 3,
+        "nama_event": "Seminar Bisnis",
+        "deskripsi": "Seminar tentang strategi bisnis dan pemasaran",
+        "harga_tiket": 50000,
+        "stok_tiket": 200
+      }
+    ]
+  }
+  
